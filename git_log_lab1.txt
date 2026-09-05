@@ -1,0 +1,5 @@
+* a10f166 (HEAD -> main, origin/main) Add positional argument handling and report output
+* 99c21a0 Implement command substitution for system metrics
+* d613946 Demonstrate quoting rules with explanatory comment
+* d98b35e Add shebang and make syshealth.sh executable
+* 8fd3210 Initial commit: project skeleton and README
